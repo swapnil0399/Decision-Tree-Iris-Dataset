@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552341477528.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "175600099",
+    "id" : "1B5778FF",
+    "lastKnownWriteTime" : 1552360603,
+    "last_content_update" : 1552360603783,
+    "path" : "~/Downloads/Machine Learning Online Stuff/Class/Assignment 2/Assignment 2.R",
+    "project_path" : "Assignment 2.R",
+    "properties" : {
+        "cursorPosition" : "101,36",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
